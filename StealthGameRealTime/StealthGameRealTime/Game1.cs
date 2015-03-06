@@ -28,7 +28,7 @@ namespace StealthGameRealTime
             : base()
         {
             graphics = new GraphicsDeviceManager(this);
-            Content.RootDirectory = "Content";
+            
         }
 
         /// <summary>
@@ -41,7 +41,8 @@ namespace StealthGameRealTime
         {
             _map = new Map();
             _ninja = new Ninja();
-
+            _badGuy1 = new BadGuy();
+            Content.RootDirectory = "Content";
             // TODO: Add your initialization logic here
 
             base.Initialize();
@@ -56,7 +57,7 @@ namespace StealthGameRealTime
             // Create a new SpriteBatch, which can be used to draw textures.
             _spriteBatch = new SpriteBatch(GraphicsDevice);
             Tiles.Content = Content;
-            _map.Generate(ReadMap(), 32);
+            _map.Generate(ReadMap(), 16);
             _badGuy1.Load(Content);
             _ninja.Load(Content);
 
@@ -103,9 +104,7 @@ namespace StealthGameRealTime
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
-            _spriteBatch.Begin(SpriteSortMode.Deferred,
-                BlendState.AlphaBlend,
-                null, null, null);
+            _spriteBatch.Begin();
             _map.Draw(_spriteBatch);
             _ninja.Draw(_spriteBatch);
             _badGuy1.Draw(_spriteBatch);
@@ -114,7 +113,7 @@ namespace StealthGameRealTime
 
             // TODO: Add your drawing code here
 
-
+            _spriteBatch.End();
             base.Draw(gameTime);
         }
 

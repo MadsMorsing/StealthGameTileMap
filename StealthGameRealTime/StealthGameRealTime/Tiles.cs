@@ -38,7 +38,8 @@ namespace StealthGameRealTime
     {
         public CollisionTiles(int i, Rectangle newRectangle)
         {
-            texture = Content.Load<Texture2D>("Tile" + i);
+            texture = Content.Load<Texture2D>("Wall.png");
+           
             this.Rectangle = newRectangle;
         }
     }

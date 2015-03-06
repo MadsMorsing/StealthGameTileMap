@@ -23,3 +23,32 @@ C:\Users\Mads Morsing\Desktop\Game development\StealthGameRealTime\StealthGameRe
 C:\Users\Mads Morsing\Desktop\Game development\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.Direct3D9.xml
 C:\Users\Mads Morsing\Desktop\Game development\StealthGameRealTime\StealthGameRealTime\obj\x86\Debug\StealthGameRealTime.exe
 C:\Users\Mads Morsing\Desktop\Game development\StealthGameRealTime\StealthGameRealTime\obj\x86\Debug\StealthGameRealTime.pdb
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\obj\x86\Debug\StealthGameRealTime.exe
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\obj\x86\Debug\StealthGameRealTime.pdb
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\StealthGameRealTime.exe
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\StealthGameRealTime.pdb
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.dll
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.xml
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\obj\x86\Debug\StealthGameRealTime.csprojResolveAssemblyReference.cache
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\map.png
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\Content\bad_guy.png
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\Content\Ninja_guy.png
+C:\Users\Mads Morsing\Documents\StealthGameTileMap\StealthGameRealTime\StealthGameRealTime\bin\Windows\Debug\Content\Wall.png

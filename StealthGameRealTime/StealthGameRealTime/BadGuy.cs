@@ -32,7 +32,7 @@ namespace StealthGameRealTime
 
         public void Load(ContentManager Content)
         {
-            texture = Content.Load<Texture2D>("BadGuy");
+            texture = Content.Load<Texture2D>("bad_guy.png");
         }
 
         public void Update(GameTime gametime)

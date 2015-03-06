@@ -2,8 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using Rectangle = Microsoft.Xna.Framework.Rectangle;
+using Microsoft.Xna.Framework.Media;
+using Color = Microsoft.Xna.Framework.Color;
+using System.Drawing;
 
 namespace StealthGameRealTime
 {
